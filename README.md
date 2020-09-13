@@ -9,7 +9,7 @@ Data scientists often develop machine learning models to solve a variety of prob
 
 ## Data Scientists Background
 
-![Background](https://github.com/sbes2020/MLPractices/blob/master/background.png)
+![Background](https://github.com/sbqs2020/sbqs2020/blob/master/background.png)
 
 The target population of this study is composed of data scientists experienced in developing ML models. These models may be supervised or not. We recruited eight data scientists from five different companies and with years of experience in ML (see Table). The participants’ experience with ML ranges from 2 to 40 years. Besides, we selected participants working in three different domains within our industrial collaboration network: three data scientists (𝑑1, 𝑑2, 𝑑4) from the oil and gas domain; three data scientists (𝑑6, 𝑑7, 𝑑8) of natural resources; and two (𝑑3, 𝑑5) data scientists working for the government. Seven data scientists declared expertise in supervised learning and two data scientists have expertise in unsupervised learning. Notice that there is one data scientist (𝑑8) who has expertise in both supervised and unsupervised learning. The frameworks most frequently employed by the study subjects for developing ML models are TensorFlow, Keras, Scikit-learn, and PyTorch.
 
